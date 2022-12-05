@@ -1,1 +1,6 @@
-new file created
+new file for add created
+function(a,b)
+{
+	return a+b;
+}
+
