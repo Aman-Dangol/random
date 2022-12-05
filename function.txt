@@ -1,4 +1,10 @@
-new file edited
+new file for add created
+function(a,b)
+{
+	return a+b;
+}
+
+new file created
 
 export function subtracter(a, b) {
     const a = 5
